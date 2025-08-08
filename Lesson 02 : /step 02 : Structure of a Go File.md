@@ -119,3 +119,8 @@ A Go file is like a **recipe** →
 3️⃣ Write instructions (functions) →
 4️⃣ Mix steps (statements & expressions).
 
+
+## how create go file and run ?
+-   create a file : test.go
+-   whrite this command in terminal : go mod init projectName
+-   go run fileName
